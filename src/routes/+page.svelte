@@ -21,6 +21,8 @@
 		{ label: "Deutsch", value: "de" },
 		{ label: "Englisch", value: "en" },
 		{ label: "Spanisch", value: "es" },
+		{label: "Französisch", value: "fr"},
+		{label: "Japanisch", value: "ja"}
 	];
 	/*let person = {name: "Theo", age: 15, student: true}
 	let persons = {student: [
